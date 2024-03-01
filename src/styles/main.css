@@ -3,15 +3,15 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-color: #e3f2fd;
-  color: #fff;
+  background-color: #66e766;
+  color: aliceblue;
 }
 
 .container {
   width: 780px;
   border-radius: 20px;
   padding: 35px 40px;
-  background-color: black;
+  background-color: rgb(9, 9, 20);
 }
 
 .container header {
