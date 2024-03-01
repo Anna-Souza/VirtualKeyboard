@@ -1,6 +1,7 @@
-## Teclado Virtual em "Vanilla JS"
+## Teclado Virtual em "Vanilla JS".
 
-  Bootcamp *Potência Tech - Desenvolvimento de Jogos*
+  Bootcamp *Potência Tech - Desenvolvimento de Jogos*.
+
   Projeto "Construindo um Simulador de Piano com JavaScript".
 
 
